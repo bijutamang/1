@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.td {
+  font-weight: bold;
+}
+.hero {
+  margin-top: 3rem;
+}
+.main {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1rem;
+}
+.imgs {
+  width: 20%;
+}
+.cn {
+  width: 40%;
+}
